@@ -4,4 +4,4 @@ print(a+b)
 
 c = 30
 d = a+b
-print(c+d)
+print(a+b)/2
